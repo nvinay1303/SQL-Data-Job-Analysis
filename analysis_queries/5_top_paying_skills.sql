@@ -24,3 +24,5 @@ MongoDB (mongo) and Apache Cassandra are both database technologies highly value
 Emerging Technologies Garnering Attention:
 
 Skills like Solidity (for blockchain development) and Rust (for systems programming) are also among the top-paying skills. This indicates a growing demand for professionals with expertise in emerging technologies such as blockchain and modern system programming languages, possibly driven by industries exploring innovative solutions and architectures.
+
+*/

@@ -1,4 +1,4 @@
--- Skills requirede for top paying roles
+-- Skills required for top paying roles
 
 /*SELECT
     job_postings_fact.job_id,
